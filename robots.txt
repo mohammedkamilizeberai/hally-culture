@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohammedkamilizeberai.github.io/hally-culture/sitemap.xml
